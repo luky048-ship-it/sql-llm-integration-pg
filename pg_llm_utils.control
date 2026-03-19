@@ -1,0 +1,4 @@
+comment = 'SQL integration with Groq LLM API for text processing and RAG'
+default_version = '1.0'
+relocatable = true
+requires = 'plpython3u, vector'
