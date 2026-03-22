@@ -34,7 +34,6 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
    Подключиться к БД и запустить демонстрационный скрипт:
    ```bash
    psql -U admin -d olist_db
-   CREATE EXTENSION IF NOT EXISTS pg_llm_utils;
    \i /pg_extension/demo.sql
    ```
 
